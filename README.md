@@ -1,2 +1,2 @@
-# Alma-Mater
- A web based project to connect alumni and students. Provides various features like gallery,job posting,forums,etc
+# Alma-mater
+A web based project to connect alumni and students with numerous features like forums, job postings and gallery.
