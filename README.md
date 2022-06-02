@@ -1,2 +1,2 @@
 # Alma-mater
-A web based project to connect alumni and students with numerous features like forums, job postings and gallery.
+Complete Web Application for managing Alumni and the current student.Consists of Admin and Staff Dashboard to manage different application like forums, Job listing, Gallery, Student Data, etc
